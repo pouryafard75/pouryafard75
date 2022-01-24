@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pouryafard75
 - 👀 I’m interested in Software Engineering and Algorithms
-- 🌱 I’m currently a Master's Student in the fields of Algorithms and Computations at the University of Tehran. 
-- 💞️ I’m seeking a Ph.D. position
+- 🌱 I’m currently a Ph.D.'s Student in Software Engineering at Concordia University.
 - 📫 You can reach me via email address: p.alikhanifard@ut.ac.ir
 
 <!---
