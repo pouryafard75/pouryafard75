@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pouryafard75
 - 👀 I’m interested in Software Engineering and Algorithms
 - 🌱 I’m currently a Ph.D.'s Student in Software Engineering at Concordia University.
-- 📫 You can reach me via email address: p.alikhanifard@ut.ac.ir
+- 📫 You can reach me via email address: po_alikh@encs.concordia.ca
 
 <!---
 pouryafard75/pouryafard75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
